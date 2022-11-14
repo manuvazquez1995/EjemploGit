@@ -1,0 +1,3 @@
+# Ignora la carpeta 'out' del proyecto.
+.out
+out/
