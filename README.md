@@ -45,6 +45,17 @@ $ git commit -m "creo un proyecto limpio con IntelliJ"
 
 
 
+8. introducido problema a solucionar
+![Captura7_problema_a_solucionar](https://user-images.githubusercontent.com/60600016/201712626-ac62d5a2-c6cd-4ab9-8107-c2ecf8d58303.PNG)
+
+
+
+9. Haciendo inmutable el campo Empleado.nombre
+![Captura8_Haciendo inmutable el campo EMPLEADO nombre](https://user-images.githubusercontent.com/60600016/201713548-6c3da968-c18e-460b-b325-6b9a1eba502f.PNG)
+
+
+
+
 
 
 
